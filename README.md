@@ -27,7 +27,7 @@ We can bring information into Augmented Reality Camera Android application and m
 
 Look at something interesting through your device camera, and get information instantly overlay-ed over the dynamic real world objects in real-time!
 <br/>
-*For example, you can point your phone camera to the person on the street and see his social profile on top of his head as a hologram. Click this hologram and send a message instantly!*
+**For example, you can point your phone camera to the person on the street and see his social profile on top of his head as a hologram. Click this hologram and send a message instantly!**
 
 To achieve this, we use ARCore, device sensors, ML and CV.
 Specifically, we use Google-supported on-device machine learning offering - **TensorFlow Lite**. We run object detection and pose estimation for every camera frame to map information to people and vehicles.
