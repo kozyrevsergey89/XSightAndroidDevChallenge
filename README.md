@@ -1,4 +1,4 @@
-# AndroidDevChallenge
+# XSight
 ![XSight](showcase/xsight-slide.jpg)
 ### Augmented Reality social app to merge digital and physical worlds
 
@@ -62,45 +62,44 @@ Currently we have:
 
 <br/>
 
-**November 2019:**
+* **November 2019:**
+ * Implement recognition flow with TensorFlow Lite (SSD MobileNet).
+ * Create UI/UX prototype.
 
-* Implement recognition flow with TensorFlow Lite (SSD MobileNet).
-* Create UI/UX prototype.
+* **December 2019:**
+ * Implement recognition flow with TensorFlow Lite (transfer learning from SSD MobileNet).
+ * Android native Messages UI Development.
+ * Soft releases for Friends&Family.
+ * Implement updated design in Augmented Reality part.
 
-**December 2019:**
-* Implement recognition flow with TensorFlow Lite (transfer learning from SSD MobileNet).
-* Android native Messages UI Development.
-* Soft releases for Friends&Family.
-* Implement updated design in Augmented Reality part.
+* **January 2020:**
+ * Implement 3rd party content backend developers console.
 
-**January 2020:**
-* Implement 3rd party content backend developers console.
+* **February 2020 :**
+ * iOS native Messages UI Development.
+ * Enhance recognition flow performance and accuracy: use C++ TensorFlow API, use quantized model.
+ * Implement Face Identification flow on backend.
 
-**February 2020 :**
-* iOS native Messages UI Development.
-* Enhance recognition flow performance and accuracy: use C++ TensorFlow API, use quantized model.
-* Implement Face Identification flow on backend.
+* **March 2020 :**
+ * Finalize iOS native UI.
+ * Finalize Android native UI.
+ * Implement social connections on backend.
 
-**March 2020 :**
-* Finalize iOS native UI.
-* Finalize Android native UI.
-* Implement social connections on backend.
-
-**April 2020 :**
-* Testing and Deployment.
-* Soft releases in small user groups: university campuses, tech communities.
-
-**May 2020 :**
-* Release at Google IO :)
+* **April 2020 :**
+ * Testing and Deployment.
+ * Soft releases in small user groups: university campuses, tech communities.
+* **May 2020 :**
+ * Release at Google IO :)
 <br/>
 
 <br/>
 
 **How can Google help us.**
-1. **Help us to to squeeze every bit of performance for object detection on-device inference**   
+1. **Help us to squeeze every bit of performance for object detection on-device inference**   
 2. **Help us reach a wide audience**  
 3. **Access to https://cloud.google.com/tpu/ to train models** (currently we do this locally and it takes forever)
 4. **Access to https://cloud.google.com/automl/ to train models**  (currently we do this locally and it takes forever)
+5. Help us build ML pipeline for model training for person recognition based on location clusters. We plan to use Batch ML Pipeline Architecture, but we could really use some help with this.
 
 <br/>
 
@@ -108,6 +107,27 @@ Currently we have:
 
 **About our team.**  
 
-My name is Sergii Kozyrev. I'm the founder of XSight. I'm a passionate software engineer, husband and conference speaker.
-We have a team of 10 engineers and designers.
+My name is Sergii Kozyrev. I'm the founder and CEO of XSight. I'm a passionate software engineer, husband and conference speaker. I have conducted 100+ Software Engineering interviews. Love hackathons, won 5 of them! Worked on 2 Android apps with total audience about 100 million users. Have MS degree in IT Security.
+
+We have a team of 9 engineers and designers.
 The team has 70+ years of experience in software development, 10+ years of experience in machine learning and 20+ years in product design combined.
+
+![XSight](showcase/team-1.png)
+
+![XSight](showcase/team-2.png)
+
+Alex Zaitsev - Co-founder & Business Developer. Has strong software development background, 3+ years in mobile advertising. Knows how to get and engage people.  Experienced in quick product launching and testing. Founder of Malvo Games.
+
+Iurii Pleskach - iOS Development Lead. Written tone of code using Objective-C, C++, Swift, Java, C#. Released a lot of applications and led several very successful mobile teams. One of the most successful apps he worked on had more than 2 million users.
+
+David Mayboroda - Machine Learning Architect. Machine Learning Solution Architect and a speaker at various tech conferences. Loves to solve problems.
+
+Mykola Podolian - Android Developer. Has 9+ years of experience as an Android Engineer, wrote his first program at age 8.
+
+Oleksandr Kyrylin - Unity Developer. Has MS degree in Applied Math. He is a guy who deals with tasks of any kind of difficulty.
+
+Ilya Bykov - iOS Developer. Has 9+ years of experience. In love with things that simplify people's life.
+
+Dima Samsonov - Product Designer. Has 10+ years of experience in UI/UX for web and mobile. Worked with companies from enterprise to pre-seed level startups.
+
+Konstantin Chkhaidze - Backend Engineer. Has 14 years of experience as a Software Engineer. Knows everything about python, micro services and DevOps.
