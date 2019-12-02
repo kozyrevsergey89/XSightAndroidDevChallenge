@@ -63,33 +63,33 @@ Currently we have:
 <br/>
 
 * **November 2019:**
- * Implement recognition flow with TensorFlow Lite (SSD MobileNet).
- * Create UI/UX prototype.
+  * Implement recognition flow with TensorFlow Lite (SSD MobileNet).
+  * Create UI/UX prototype.
 
 * **December 2019:**
- * Implement recognition flow with TensorFlow Lite (transfer learning from SSD MobileNet).
- * Android native Messages UI Development.
- * Soft releases for Friends&Family.
- * Implement updated design in Augmented Reality part.
+  * Implement recognition flow with TensorFlow Lite (transfer learning from SSD MobileNet).
+  * Android native Messages UI Development.
+  * Soft releases for Friends&Family.
+  * Implement updated design in Augmented Reality part.
 
 * **January 2020:**
- * Implement 3rd party content backend developers console.
+  * Implement 3rd party content backend developers console.
 
 * **February 2020 :**
- * iOS native Messages UI Development.
- * Enhance recognition flow performance and accuracy: use C++ TensorFlow API, use quantized model.
- * Implement Face Identification flow on backend.
+  * iOS native Messages UI Development.
+  * Enhance recognition flow performance and accuracy: use C++ TensorFlow API, use quantized model.
+  * Implement Face Identification flow on backend.
 
 * **March 2020 :**
- * Finalize iOS native UI.
- * Finalize Android native UI.
- * Implement social connections on backend.
+  * Finalize iOS native UI.
+  * Finalize Android native UI.
+  * Implement social connections on backend.
 
 * **April 2020 :**
- * Testing and Deployment.
- * Soft releases in small user groups: university campuses, tech communities.
+  * Testing and Deployment.
+  * Soft releases in small user groups: university campuses, tech communities.
 * **May 2020 :**
- * Release at Google IO :)
+  * Release at Google IO :)
 <br/>
 
 <br/>
